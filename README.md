@@ -1,2 +1,2 @@
-# Badanie-uk-ad-w-przetwarzania-obraz-w
+# Badanie-ukladow-przetwarzania-obrazow
 Analiza przetwarzania obrazów przy zastosowaniu rónegorodzaju filtrów. 
